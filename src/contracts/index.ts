@@ -1,0 +1,1 @@
+export type { MainContract } from './MainContract'

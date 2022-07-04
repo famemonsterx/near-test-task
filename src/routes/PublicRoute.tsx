@@ -1,5 +1,5 @@
 import { Redirect, Route, RouteProps } from "react-router-dom";
-import { APP_NAME, FrontUrls, STORAGE_TOKEN } from "../constants";
+import { FrontUrls, STORAGE_TOKEN } from "../constants";
 
 type ComponentProps = {
   restricted?: boolean

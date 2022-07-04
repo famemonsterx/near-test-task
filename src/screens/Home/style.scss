@@ -1,0 +1,15 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  &__select {
+    max-width: 500px;
+  }
+  &__table {
+    display: flex;
+  }
+  &__user {
+    display: flex;
+    gap: 24px;
+  }
+}

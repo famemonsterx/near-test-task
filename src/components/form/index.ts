@@ -1,1 +1,1 @@
-export { Input } from './components/Input/Input'
+export { Select } from './components/Select/Select'
